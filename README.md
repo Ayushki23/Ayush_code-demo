@@ -1,5 +1,11 @@
 # Ayush_code-demo
-This is my first repositroy.<br>
-Author-Ayush Maurya
+<html>
+<head>
+<title>First code</title>
+</head>
+<body>
+  <p>THis is paragraph <b>tag</b></p>
+</body>
+</html>
 
 
